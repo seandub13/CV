@@ -8,15 +8,15 @@ const AboutMe = () => {
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">about me</h1>
           <p>
-          Hi, I am Sean Williams, a web developer from Dublin, Ireland.
-          I created this website as an interactive way to get to know me and showcase some of my development skills.
-          I have been programming for over 10 years, which started with a 300 page book that thought you how to make websites and have been developing ever since.
-          Over this time I have gathered experience in multiple different programming languages like Java, Python, Angular, Javascript, C++, Haskell and many more.
-          I studied Enterprise Computing at Dublin City University graduating in 2019 with an Honours Bachelor's Degree and I am in the process of obtaining my Masters from Technological University Dublin in Advanced Software Development.
-          I joined AIG after college as part of a rotation program that allowed me to experience multiple different aspects of software development so that I can now work as a full stack developer.
+          Hi, I am Sean Williams, a web developer located in Dublin, Ireland.
+          I created this website as an interactive way of getting to know me and to showcase some of my programming skills.
+          I have been programming for over 10 years, which started when I picked up a 300 page book that taught you how to make websites and have been developing ever since.
+          I have amassed an extensive amount experience in different programming languages such as Java, Python, Angular, Javascript, C++, Haskell and have working knowledge of many more.
+          I studied Enterprise Computing at Dublin City University, graduating in 2019 with a First Class Honours Bachelor's Degree and I am in the process of obtaining my Masters Degree from Technological University Dublin in Advanced Software Development.
+          I joined AIG after college as part of a rotation program that allowed me to work with different aspects of software development. The experiences I had on the different teams and projects prepared me to work as a full stack developer.
           As well as that, some of my hobbies include teaching, basketball and esports.
-          If I had to describe myself, the best way would be as that I am big nerd who loves American sports who wants to create interesting and usefull web applcations.
-          I'm always open to anybody that wants to talk job oppurtunites, emerging technologies or NBA results, please dont be shy and reach out to me.
+          If I had to describe myself, the best way would be that I am big nerd who loves American sports, who wants to create interesting and useful web applications.
+          I'm always open to anybody that wants to talk job opportunites, emerging technologies or NBA results so please dont be shy and reach out to me.
           
           </p>
         </div>
