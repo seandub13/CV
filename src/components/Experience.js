@@ -26,7 +26,7 @@ const Experience = () => {
         <p className="card-text">I worked as a UI/UX designer with a particular focus around Angular for a medium sized remote team.
         My work was mainly split between two projects. 
         1: The creation of an automated version control system to assist with the migration from PVCS to GitHub.
-        2: Development of Angular Web Appliciation to showcase risk scenarios</p>
+        2: Development of Angular Web Application to showcase risk scenarios</p>
       </div>
     </div>
   </div>
