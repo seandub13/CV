@@ -26,7 +26,7 @@ const Experience = () => {
         <p className="card-text">I worked as a UI/UX designer with a particular focus around Angular for a medium sized remote team.
         My work was mainly split between two projects. 
         1: The creation of an automated version control system to assist with the migration from PVCS to GitHub.
-        2: Developement of Angular Web Applciation to showcase risk scenarios</p>
+        2: Development of Angular Web Appliciation to showcase risk scenarios</p>
       </div>
     </div>
   </div>
@@ -50,7 +50,7 @@ const Experience = () => {
       <h5 class="card-title">Mentor, Coder Dojo DCU </h5>
     <h6 class="card-subtitle mb-2 ">January 2017 – December 2019</h6>
     <br/>
-        <p className="card-text">I voluntered at my local CoderDojo located in DCU. 
+        <p className="card-text">I volunteered at my local CoderDojo located in DCU. 
         I would teach HTML and Web Design to young adults (aged 7 – 17).
         This class would occur every Saturday morning from 10am to 12pm.</p>
       </div>
@@ -65,7 +65,7 @@ const Experience = () => {
     <br/>
         <p className="card-text">I interned at AIG during my third year of college as a PMO. 
         I was part of a global project that was focused on the migration of Windows 2003 servers to new servers.
-        For this role I managed the decommissioning of the old Windows 2003 servers, as well as assisting with the the migration of apps from the older servers.</p>
+        For this role I managed the decommissioning of the old Windows 2003 servers, as well as assisting with the migration of apps from the older servers.</p>
       </div>
     </div>
   </div>
@@ -77,7 +77,7 @@ const Experience = () => {
         <h6 class="card-subtitle mb-2 " >February 2015 – March 2015</h6>
         <br/>
         <p className="card-text">I interned at the Royal Victoria Eye and Ear Hospital in Dublin.
-        I worked on the IT team, maintaing the hospitals different systems.
+        I worked with the IT team, maintaining the hospitals different systems.
         I was also tasked with tracking and noting operating systems used by all devices in preparation for a future upgrade.</p>
       </div>
     </div>
